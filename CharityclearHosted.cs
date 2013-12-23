@@ -16,7 +16,7 @@ namespace charityclear
 	public partial class Default : System.Web.UI.Page
 	{
 		
-		 private Uri GATEWAY_URL = new Uri("https://gateway.charityclear.com/hosted/");
+		 private Uri GATEWAY_URL = new Uri("https://gateway.charityclear.com/paymentform/");
 		// holds the request string
         private string reqString = "";
 		// holds the response string
