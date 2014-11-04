@@ -118,7 +118,7 @@ namespace charityclear
 
         private void fillInfo()
         {
-            merchantId = "100001";
+            merchantId = "100003";
             action = "SALE";
             transType = 1;
             uniqueIdentifier = "12345s6789c1";
